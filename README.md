@@ -7,19 +7,21 @@ Repositório criado para o desafio de projeto
 ### Módulo 0 - Prepare-se para a jornada
 
 **Conheça as oportunidades da DIO**
-* Assistir ao vídeo:
-* Certificado:
+* Assistir ao vídeo: ok
+* Certificado: 01 ok
 
 **Seja protagonista neste bootcamp**
-* Assistir ao vídeo:
-* Certificado:
+* Assistir ao vídeo: ok
+* Certificado: 02 ok
 
 **Boas-vindas ao impulso javascript evolution**
-* Assistir ao vídeo:
-* Certificado:
+* Assistir ao vídeo: ok
+* Certificado: 03 ok
 
 **Mentoria 1: Impulso javascript evolution - aula inaugural**
-* Assistir à live:
+* Assistir à live: ok
+
+* ***Certificado Módulo 0: 04 ok***
 
 
 ### Módulo I - Princípios de Desenvolvimento de Software
